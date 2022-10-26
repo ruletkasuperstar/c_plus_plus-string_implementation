@@ -1,4 +1,4 @@
-> Hello everyone, today (26.10) i show you how make String class for your project! Let's do it!
+> Hello everyone, today (26.10) i show you how to make String class for your project! Let's do it!
 
 First, create (if you want) `namespace`:
 
